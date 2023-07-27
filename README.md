@@ -1,1 +1,1 @@
-# Dynamic-Graph-Clustering
+# Dynamic_Graph_Clustering
